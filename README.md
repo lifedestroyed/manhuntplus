@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://github.com/teamld/teamld.github.io/blob/main/manhuntplus/banners/mh+.png?raw=true" alt="ManhuntPlus Banner">
-*A complete Manhunt game implementation for Minecraft servers.*
----
+A complete Manhunt game implementation for Minecraft servers.
 </div>
 
 ## 🚀 Features
@@ -15,7 +14,7 @@
 ---
 
 ## 📦 Installation
-1. Download ManhuntPlus from [Modrinth](https://modrinth.com/plugin/manhuntplus).
+1. Download ManhuntPlus from [Modrinth](https://modrinth.com/plugin/manhunt-plus).
 2. Drop it into your server’s `plugins/` folder.
 3. Restart the server.
 
@@ -111,4 +110,4 @@ effects:
 
 - **Bug Reports**: [GitHub Issues](https://github.com/lifedestroyed/manhuntplus/issues)
 - **Source Code**: [GitHub](https://github.com/lifedestroyed/manhuntplus)
-- **License**: MIT
+- **License**: life destroyed license

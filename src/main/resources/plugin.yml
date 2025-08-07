@@ -1,0 +1,8 @@
+name: ManhuntPlus
+version: '1.0'
+main: com.lifedestroyed.manhuntplus.Main
+api-version: '1.21'
+prefix: Manhunt
+authors: [ lifedestroyed ]
+description: Creates a cool manhunt system.
+website: https://teamld.github.io/manhuntplus/
